@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Sadə Musiqi Çalar</string>
+    <string name="app_launcher_name">Musiqi Çalar</string>
+    <string name="playlist_empty">Oynatma siyahısı boşdur</string>
+    <string name="rename_song">Yenidən adlandır</string>
+    <string name="rename_song_error">Yenidən adlandırarkən xəta baş verdi</string>
+    <string name="rename_song_empty">Xahiş olunur bütün yerləri doldurun</string>
+    <string name="enable_song_repetition">Hazırki musiqini təkrarla</string>
+    <string name="disable_song_repetition">Hazırki musiqini təkrarlama</string>
+    <string name="song_repetition_enabled">Hazırki musiqini təkrarlama aktivdir</string>
+    <string name="song_repetition_disabled">Hazırki musiqini təkrarlama deaktivdir</string>
+    <string name="enable_shuffle">Qarışdırmanı aç</string>
+    <string name="disable_shuffle">Qarışdırmanı qapat</string>
+    <string name="shuffle_enabled">Qarışdırma aktivdir</string>
+    <string name="shuffle_disabled">Qarışdırma deaktivdir</string>
+    <string name="enable_autoplay">Avto-oxuma\'nı aç</string>
+    <string name="disable_autoplay">Avto-oxuma\'nı qapat</string>
+    <string name="autoplay_enabled">Avto-oxuma aktivdir</string>
+    <string name="autoplay_disabled">Avto-oxuma deaktivdir</string>
+
+    <string name="previous">Əvvəlki</string>
+    <string name="playpause">Oynat / Dayan</string>
+    <string name="next">Sonrakı</string>
+
+    <!-- Playlists -->
+    <string name="add_file_to_playlist">Alboma fayl əlavə et</string>
+    <string name="add_folder_to_playlist">Alboma qovluq əlavə et</string>
+    <string name="manage_playlists">Albomları idarə et</string>
+    <string name="playlists">Oynatma siyahıları</string>
+    <string name="create_playlist">Albom yarat</string>
+    <string name="rename_playlist">Albomu yenidən adlandır</string>
+    <string name="playlist_name_exists">Eyni adda albom artıq mövcuddur</string>
+    <string name="remove_playlist">Albomu sil</string>
+    <string name="remove_playlist_description">Bu yalnız seçilmiş albomları siləcək, həqiqi faylları yox.</string>
+    <string name="remove_playlist_description_placeholder">Bu yalnız \"%s\" adlı albomu siləcək, həqiqi faylları yox.</string>
+    <string name="remove_from_playlist">Albomu sil</string>
+    <string name="remove_from_playlist_description">Bu yalnız \"%s\" adlı albomdakı faylları siləcək, həqiqi fayllar silinməyəcək.</string>
+    <string name="delete_the_files_too">Faylları da sil</string>
+    <string name="open_playlist">Albomu aç</string>
+    <string name="all_songs_cannot_be_deleted">\'Bütün Mahnılar\' albomu silinə bilməz</string>
+    <string name="empty_playlist">Hazırki albom boşdur</string>
+    <string name="fetching_songs">Mahnılar gətirilir…</string>
+    <string name="all_songs">Bütün Mahnılar</string>
+    <string name="create_playlist_from_folder">Qovluqdan yeni albom yarat</string>
+    <string name="folder_contains_no_audio">Seçilmiş qovluqda mahnı yoxdur</string>
+    <string name="delete_current_song">Hazırki mahnını sil</string>
+    <string name="remove_current_song">Hazırki mahnını albomdan sil</string>
+    <string name="show_filename">Fayl adını mahnı başlığı kimi göstər:</string>
+    <string name="title_is_not_available">Əgər başlıq yoxdursa</string>
+    <string name="show_album_cover">Əsas ekranda albom çərçivəsini göstər</string>
+
+    <!-- Settings -->
+    <string name="equalizer">Qarışdırıcı</string>
+    <string name="swap_prev_next">Swap previous/next headphone buttons</string>
+
+    <!-- FAQ -->
+    <string name="faq_1_title">How can I fast-forward songs?</string>
+    <string name="faq_1_text">You can click on the current or max duration texts near the seekbar, that will move the song either backward, or forward.</string>
+
+    <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
+    <!-- Short description has to have less than 80 chars -->
+    <string name="app_short_description">Dəyişdirilə bilən widgetli, təmiz bir musiqi çalar.</string>
+    <string name="app_long_description">
+        Status çubuğundan, əsas ekran widgetindən yaxud da qulaqcığınızın düymələrindən asanlıqla idarə edilə bilən sadə bir musiqi çalar. Mahnıları Başlıq yaxud da İfaçı olaraq qruplaşdıra, hətta Qarışdırıcını dəyişdirə bilərsiniz. İfaçı və ya albomla filtr hələki dəstəklənmir, səbrli qalın!
+
+        Widgeti ehtiva edir hansı ki, siz oradan yazı rəngini, həmçinin, alfanı və arxa plan rəngini dəyişdirə bilərsiniz.
+
+        Lazımsız reklam və ya icazə mövcud deyil. Tamamilə açıqlisanslıdır, rəng dəyişmə parametrləri var.
+
+        Bu, böyük bir tətbiq seriyasının yalnız bir hissəsidir. Digər tətbiqləri buradan əldə edə bilərsiniz https://www.simplemobiletools.com
+    </string>
+
+    <!--
+        Haven't found some strings? There's more at
+        https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res
+    -->
+</resources>

@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Simple Music Player</string>
+    <string name="app_launcher_name">Música</string>
+    <string name="playlist_empty">Su lista de reproducción está vacía</string>
+    <string name="rename_song">Renombrar canción</string>
+    <string name="rename_song_error">Ha ocurrido un error durante el renombrado</string>
+    <string name="rename_song_empty">Por favor, rellene todos los campos</string>
+    <string name="enable_song_repetition">Repetir la canción actual</string>
+    <string name="disable_song_repetition">Parar la repetición de la canción actual</string>
+    <string name="song_repetition_enabled">Reproducción en bucle activada</string>
+    <string name="song_repetition_disabled">Reproducción en bucle desactivada</string>
+    <string name="enable_shuffle">Activar aleatorio</string>
+    <string name="disable_shuffle">Desactivar aleatorio</string>
+    <string name="shuffle_enabled">Reproducción aleatoria activada</string>
+    <string name="shuffle_disabled">Reproducción aleatoria desactivada</string>
+    <string name="enable_autoplay">Enable autoplay</string>
+    <string name="disable_autoplay">Disable autoplay</string>
+    <string name="autoplay_enabled">Autoplay enabled</string>
+    <string name="autoplay_disabled">Autoplay disabled</string>
+
+    <string name="previous">Anterior</string>
+    <string name="playpause">Reproducir / Pausar</string>
+    <string name="next">Siguiente</string>
+
+    <!-- Playlists -->
+    <string name="add_file_to_playlist">Add file to playlist</string>
+    <string name="add_folder_to_playlist">Add folder to playlist</string>
+    <string name="manage_playlists">Manage playlists</string>
+    <string name="playlists">Playlists</string>
+    <string name="create_playlist">Create playlist</string>
+    <string name="rename_playlist">Rename playlist</string>
+    <string name="playlist_name_exists">A playlist with that name already exists</string>
+    <string name="remove_playlist">Remove playlist</string>
+    <string name="remove_playlist_description">This will only remove the selected playlists, not the actual files.</string>
+    <string name="remove_playlist_description_placeholder">This will only remove playlist \"%s\", not the actual files.</string>
+    <string name="remove_from_playlist">Remove from playlist</string>
+    <string name="remove_from_playlist_description">This will only remove the items from playlist \"%s\", the actual files will not be deleted.</string>
+    <string name="delete_the_files_too">Delete the files too</string>
+    <string name="open_playlist">Open playlist</string>
+    <string name="all_songs_cannot_be_deleted">\'All songs\' playlist cannot be deleted</string>
+    <string name="empty_playlist">Current playlist is empty</string>
+    <string name="fetching_songs">Fetching songs…</string>
+    <string name="all_songs">All songs</string>
+    <string name="create_playlist_from_folder">Create new playlist from folder</string>
+    <string name="folder_contains_no_audio">The selected folder contains no audio files</string>
+    <string name="delete_current_song">Delete current song</string>
+    <string name="remove_current_song">Remove current song from playlist</string>
+    <string name="show_filename">Show filename as song title:</string>
+    <string name="title_is_not_available">If title is not available</string>
+    <string name="show_album_cover">Show album cover on the main screen</string>
+
+    <!-- Settings -->
+    <string name="equalizer">Ecualizador</string>
+    <string name="swap_prev_next">Swap previous/next headphone buttons</string>
+
+    <!-- FAQ -->
+    <string name="faq_1_title">How can I fast-forward songs?</string>
+    <string name="faq_1_text">You can click on the current or max duration texts near the seekbar, that will move the song either backward, or forward.</string>
+
+    <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
+    <!-- Short description has to have less than 80 chars -->
+    <string name="app_short_description">A clean music player with a customizable widget.</string>
+    <string name="app_long_description">
+        A music player easily controllable from the status bar, home screen widget or by hardware buttons on your headset. You can sort the tracks by the Title or Artist, as well as change the Equalizer. Does not yet support filtering by artist or album, stay tuned!
+
+        It contains a widget with customizable text color, alpha and the color of the background.
+
+        Contains no ads or unnecessary permissions. It is fully opensource, provides customizable colors.
+
+        This app is just one piece of a bigger series of apps. You can find the rest of them at https://www.simplemobiletools.com
+    </string>
+
+    <!--
+        Haven't found some strings? There's more at
+        https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res
+    -->
+</resources>

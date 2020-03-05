@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Prosty odtwarzacz muzyki</string>
+    <string name="app_launcher_name">Odtwarzacz muzyki</string>
+    <string name="playlist_empty">Twoja lista odtwarzania jest pusta</string>
+    <string name="rename_song">Zmień nazwę</string>
+    <string name="rename_song_error">Wystąpił błąd podczas zmiany nazwy</string>
+    <string name="rename_song_empty">Wypełnij wszystkie pola</string>
+    <string name="enable_song_repetition">Powtarzaj bieżący utwór</string>
+    <string name="disable_song_repetition">Przestań powtarzać bieżący utwór</string>
+    <string name="song_repetition_enabled">Powtarzanie obecnego utworu włączone</string>
+    <string name="song_repetition_disabled">Powtarzanie obecnego utworu wyłączone</string>
+    <string name="enable_shuffle">Włącz kolejność losową</string>
+    <string name="disable_shuffle">Wyłącz kolejność losową</string>
+    <string name="shuffle_enabled">Kolejność losowa włączona</string>
+    <string name="shuffle_disabled">Kolejność losowa wyłączona</string>
+    <string name="enable_autoplay">Włącz autoodtwarzanie</string>
+    <string name="disable_autoplay">Wyłącz autoodtwarzanie</string>
+    <string name="autoplay_enabled">Autoodtwarzanie włączone</string>
+    <string name="autoplay_disabled">Autoodtwarzanie wyłączone</string>
+
+    <string name="previous">Poprzedni</string>
+    <string name="playpause">Odtwórz / zatrzymaj</string>
+    <string name="next">Następny</string>
+
+    <!-- Playlists -->
+    <string name="add_file_to_playlist">Dodaj plik do listy odtwarzania</string>
+    <string name="add_folder_to_playlist">Dodaj folder do listy odtwarzania</string>
+    <string name="manage_playlists">Zarządzaj listami odtwarzania</string>
+    <string name="playlists">Listy odtwarzania</string>
+    <string name="create_playlist">Utwórz listę odtwarzania</string>
+    <string name="rename_playlist">Zmień nazwę listy odtwarzania</string>
+    <string name="playlist_name_exists">Lista odtwarzania z tą nazwą już istnieje</string>
+    <string name="remove_playlist">Usuń listę odtwarzania</string>
+    <string name="remove_playlist_description">To usunie tylko wybrane listy odtwarzania, nie pliki.</string>
+    <string name="remove_playlist_description_placeholder">To usunie tylko listę odtwarzania \"%s\", nie pliki.</string>
+    <string name="remove_from_playlist">Usuń z listy odtwarzania</string>
+    <string name="remove_from_playlist_description">To usunie tylko elementy z listy odtwarzania \"%s\", pliki zostaną nienaruszone.</string>
+    <string name="delete_the_files_too">Usuń też pliki</string>
+    <string name="open_playlist">Otwórz listę odtwarzania</string>
+    <string name="all_songs_cannot_be_deleted">Lista odtwarzania \'Wszystkie utwory\' nie może zostać usunięta</string>
+    <string name="empty_playlist">Obecna lista odtwarzania jest pusta</string>
+    <string name="fetching_songs">Zbieranie utworów…</string>
+    <string name="all_songs">Wszystkie utwory</string>
+    <string name="create_playlist_from_folder">Utwórz nową listę odtwarzania z folderu</string>
+    <string name="folder_contains_no_audio">Wybrany folder nie zawiera plików audio</string>
+    <string name="delete_current_song">Usuń obecną piosenkę</string>
+    <string name="remove_current_song">Usuń obecną piosenkę z listy odtwarzania</string>
+    <string name="show_filename">Pokazuj nazwę pliku jako tytuł piosenki:</string>
+    <string name="title_is_not_available">Jeśli tytuł jest niedostępny</string>
+    <string name="show_album_cover">Pokazuj okładkę albumu na głównym ekranie</string>
+
+    <!-- Settings -->
+    <string name="equalizer">Korektor</string>
+    <string name="swap_prev_next">Swap previous/next headphone buttons</string>
+
+    <!-- FAQ -->
+    <string name="faq_1_title">Jak mogę przewijać piosenki?</string>
+    <string name="faq_1_text">Kliknij napis z obecnym jej momentem lub całkowitym czasem trwania.</string>
+
+    <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
+    <!-- Short description has to have less than 80 chars -->
+    <string name="app_short_description">Prosty odtwarzacz muzyki z konfigurowalnym widżetem..</string>
+    <string name="app_long_description">
+        Odtwarzacz muzyki łatwy do kontrolowania z poziomu paska stanu, widżetu na pulpicie lub przycisków na słuchawkach. Możesz sortować utwory według tytułu i wykonawcy (według albumu jeszcze nie, ale kiedyś będzie to możliwe). Audiofile posiadają zaś możliwość zabawy suwakami w korektorze.
+
+        Zawiera widżet z konfigurowalnymi kolorami napisów i tła.
+
+        Nie zawiera natomiast żadnych reklam, nie potrzebuje całej masy uprawnień, jest w pełni otwartoźródłowa i w pełni podatna na kolorowanie.
+
+        Niniejsza aplikacja jest tylko częścią naszej kolekcji prostych narzędzi. Ta, jak i pozostałe, dostępne są na stronie https://www.simplemobiletools.com
+    </string>
+
+    <!--
+        Haven't found some strings? There's more at
+        https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res
+    -->
+</resources>

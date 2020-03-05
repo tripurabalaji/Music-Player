@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Simple Music Player</string>
+    <string name="app_launcher_name">Проигрыватель музыки</string>
+    <string name="playlist_empty">Ваш плейлист пуст</string>
+    <string name="rename_song">Переименовать композицию</string>
+    <string name="rename_song_error">Во время переименования произошла ошибка</string>
+    <string name="rename_song_empty">Пожалуйста, заполните все поля</string>
+    <string name="enable_song_repetition">Повторять текущую композицию</string>
+    <string name="disable_song_repetition">Больше не повторять</string>
+    <string name="song_repetition_enabled">Повтор текущей композиции включён</string>
+    <string name="song_repetition_disabled">Повтор текущей композиции выключен</string>
+    <string name="enable_shuffle">Играть в случайном порядке</string>
+    <string name="disable_shuffle">Играть подряд</string>
+    <string name="shuffle_enabled">Воспроизведение в случайном порядке включено</string>
+    <string name="shuffle_disabled">Воспроизведение в случайном порядке выключено</string>
+    <string name="enable_autoplay">Играть автоматически</string>
+    <string name="disable_autoplay">Играть вручную</string>
+    <string name="autoplay_enabled">Автоматическое воспроизведение включено</string>
+    <string name="autoplay_disabled">Автоматическое воспроизведение выключено</string>
+
+    <string name="previous">Предыдущая</string>
+    <string name="playpause">Воспроизведение / Пауза</string>
+    <string name="next">Следующая</string>
+
+    <!-- Playlists -->
+    <string name="add_file_to_playlist">Добавить файл в плейлист</string>
+    <string name="add_folder_to_playlist">Добавить папку в плейлист</string>
+    <string name="manage_playlists">Управление плейлистами</string>
+    <string name="playlists">Плейлисты</string>
+    <string name="create_playlist">Создать плейлист</string>
+    <string name="rename_playlist">Переименовать плейлист</string>
+    <string name="playlist_name_exists">Плейлист с таким названием уже существует</string>
+    <string name="remove_playlist">Удалить плейлист</string>
+    <string name="remove_playlist_description">Будут удалены только выбранные плейлисты, а не сами файлы.</string>
+    <string name="remove_playlist_description_placeholder">Будет удалён только плейлист «%s», а не сами файлы.</string>
+    <string name="remove_from_playlist">Удалить из плейлиста</string>
+    <string name="remove_from_playlist_description">Композиции будут удалены только из плейлиста «%s», сами файлы удалены не будут.</string>
+    <string name="delete_the_files_too">Удалить файлы тоже</string>
+    <string name="open_playlist">Открыть плейлист</string>
+    <string name="all_songs_cannot_be_deleted">Плейлист «Все композиции» не может быть удалён</string>
+    <string name="empty_playlist">Текущий плейлист пуст</string>
+    <string name="fetching_songs">Загрузка композиций…</string>
+    <string name="all_songs">Все композиции</string>
+    <string name="create_playlist_from_folder">Создать новый плейлист из папки</string>
+    <string name="folder_contains_no_audio">Выбранная папка не содержит аудиофайлов</string>
+    <string name="delete_current_song">Удалить текущую композицию</string>
+    <string name="remove_current_song">Убрать текущую композицию из плейлиста</string>
+    <string name="show_filename">Имя файла вместо названия композиции:</string>
+    <string name="title_is_not_available">Если название недоступно</string>
+    <string name="show_album_cover">Показывать обложку альбома на главном экране</string>
+
+    <!-- Settings -->
+    <string name="equalizer">Эквалайзер</string>
+    <string name="swap_prev_next">Swap previous/next headphone buttons</string>
+
+    <!-- FAQ -->
+    <string name="faq_1_title">Как я могу перемотать композицию?</string>
+    <string name="faq_1_text">Вы можете нажать на текст текущей или общей длительности воспроизведения рядом с ползунком — это переместит воспроизведение либо назад, либо вперед.</string>
+
+    <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
+    <!-- Short description has to have less than 80 chars -->
+    <string name="app_short_description">Чистый музыкальный проигрыватель с настраиваемым виджетом.</string>
+    <string name="app_long_description">
+        Музыкальный проигрыватель, который легко управляется из статус-бара, с помощью виджета на домашнем экране или с помощью кнопок на гарнитуре. Можно сортировать композиции по названию или исполнителю, а также настраивать эквалайзер. Пока что фильтрация по исполнителю или альбому не поддерживается, следите за обновлениями!
+
+        У приложения есть виджет, у которого можно изменить цвет текста, цвет и прозрачность фона.
+
+        Это приложение не показывает рекламу и не запрашивает лишние разрешения. У него полностью открытый исходный код и настраиваемые цвета оформления.
+
+        Это приложение является лишь частью более крупной серии приложений. Вы можете найти остальные на https://www.simplemobiletools.com
+    </string>
+
+    <!--
+        Haven't found some strings? There's more at
+        https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res
+    -->
+</resources>

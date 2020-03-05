@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Jednoduchý hudobný prehrávač</string>
+    <string name="app_launcher_name">Hudobný prehrávač</string>
+    <string name="playlist_empty">Vás zoznam skladieb je prázdny</string>
+    <string name="rename_song">Premenovať pesničku</string>
+    <string name="rename_song_error">Počas premenúvania došlo k chybe</string>
+    <string name="rename_song_empty">Prosím vyplňte všetky polia</string>
+    <string name="enable_song_repetition">Opakovať súčasnú pesničku</string>
+    <string name="disable_song_repetition">Prestať s opakovaním súčasnej pesničky</string>
+    <string name="song_repetition_enabled">Opakovanie súčasnej pesničky zapnuté</string>
+    <string name="song_repetition_disabled">Opakovanie súčasnej pesničky vypnuté</string>
+    <string name="enable_shuffle">Zapnúť miešanie pesničiek</string>
+    <string name="disable_shuffle">Vypnúť miešanie pesničiek</string>
+    <string name="shuffle_enabled">Miešanie zapnuté</string>
+    <string name="shuffle_disabled">Miešanie vypnuté</string>
+    <string name="enable_autoplay">Zapnúť automatické prehrávanie</string>
+    <string name="disable_autoplay">Vypnúť automatické prehrávanie</string>
+    <string name="autoplay_enabled">Automatické prehrávanie zapnuté</string>
+    <string name="autoplay_disabled">Automatické prehrávanie vypnuté</string>
+
+    <string name="previous">Predošlá</string>
+    <string name="playpause">Hrať / Pauznúť</string>
+    <string name="next">Nasledujúca</string>
+
+    <!-- Playlists -->
+    <string name="add_file_to_playlist">Pridať súbor do zoznamu skladieb</string>
+    <string name="add_folder_to_playlist">Pridať priečinok do zoznamu skladieb</string>
+    <string name="manage_playlists">Spravovať zoznamy skladieb</string>
+    <string name="playlists">Zoznamy skladieb</string>
+    <string name="create_playlist">Vytvoriť zoznam skladieb</string>
+    <string name="rename_playlist">Premenovať zoznam skladieb</string>
+    <string name="playlist_name_exists">Zoznam skladieb s týmto názvom už existuje</string>
+    <string name="remove_playlist">Odstrániť zoznam skladieb</string>
+    <string name="remove_playlist_description">Toto iba odstráni vybrané zoznamy skladieb, nie samotné súbory.</string>
+    <string name="remove_playlist_description_placeholder">Toto iba odstráni zoznam skladieb \"%s\", nie samotné súbory..</string>
+    <string name="remove_from_playlist">Odstrániť zo zoznamu skladieb</string>
+    <string name="remove_from_playlist_description">Toto iba odstráni skladby zo zoznamu skladieb \"%s\", samotné súbory nebudú vymazané.</string>
+    <string name="delete_the_files_too">Odstrániť aj súbory</string>
+    <string name="open_playlist">Otvoriť zoznam skladieb</string>
+    <string name="all_songs_cannot_be_deleted">Zoznam skladieb \'Všetky skladby\' nemôže byť vymazaný</string>
+    <string name="empty_playlist">Súčasný zoznam skladieb je prázdny</string>
+    <string name="fetching_songs">Pridávajú sa skladby…</string>
+    <string name="all_songs">Všetky skladby</string>
+    <string name="create_playlist_from_folder">Vytvoriť nový zoznam skladieb z priečinka</string>
+    <string name="folder_contains_no_audio">Zvolený priečinok neobsahuje žiadne audio súbory</string>
+    <string name="delete_current_song">Vymazať súčasnú skladbu</string>
+    <string name="remove_current_song">Odstrániť súčasnú skladbu zo zoznamu skladieb</string>
+    <string name="show_filename">Zobraziť názov súboru namiesto názvu skladby:</string>
+    <string name="title_is_not_available">Ak názov skladby nie je dostupý</string>
+    <string name="show_album_cover">Zobraziť obal albumu na hlavnej obrazovke</string>
+
+    <!-- Settings -->
+    <string name="equalizer">Ekvalizér</string>
+    <string name="swap_prev_next">Vymeniť slúchadlové tlačidlá pre ďalšiu/predošlú skladbu</string>
+
+    <!-- FAQ -->
+    <string name="faq_1_title">Ako viem posunúť skladbu vpred?</string>
+    <string name="faq_1_text">Môžete kliknúť na texty súčasnej, alebo maximálnej dĺžky skladby, ktoré sú vedľa indikátora súčasného progresu. To posunie skladbu buď vpred, alebo vzad.</string>
+
+    <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
+    <!-- Short description has to have less than 80 chars -->
+    <string name="app_short_description">Jednoduchý hudobný prehrávač s meniteľným widgetom na plochu.</string>
+    <string name="app_long_description">
+        Hudobný prehrávač jednoducho ovládateľný zo statovej lišty, widgetu na ploche, alebo hardvérovými tlačidlami na slúchadlách. Poskytuje rôzne možnosti zoradenia pesničiek, ako aj rôzne ekvalizéry.
+
+        Obsahuje škálovateľný widget, kde viete upraviť farbu textu, ako aj priehľadnosť a farbu pozadia.
+
+        Neobsahuje žiadne reklamy a nepotrebné oprávnenia. Je opensource, poskytuje možnosť zmeny farieb.
+
+        Táto aplikácia je iba jednou zo skupiny aplikácií. Ostatné viete nájsť na https://www.simplemobiletools.com
+    </string>
+
+    <!--
+        Haven't found some strings? There's more at
+        https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res
+    -->
+</resources>
